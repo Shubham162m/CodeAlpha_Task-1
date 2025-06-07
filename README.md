@@ -1,8 +1,7 @@
 Step-by-Step Process to Complete the Data Redundancy Removal System Task
-Step 1: Understand the Requirements
-Review the task description thoroughly
 
-Identify key components:
+
+Step 1: Understand the Requirements Review the task description thoroughly Identify key components:
 
 Data identification and classification
 
